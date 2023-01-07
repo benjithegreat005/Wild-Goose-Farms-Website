@@ -7,12 +7,12 @@ function App() {
   const [selection, cart] = useState(
       [{
         id: 1,
-        text: 'Eggs (dozen)',
+        text: 'Eggs',
         amount: 1,
     },
     {
         id: 2,
-        text: 'Whole Milk (gallon)',
+        text: 'Milk',
         amount: 1,
     }]
 )
